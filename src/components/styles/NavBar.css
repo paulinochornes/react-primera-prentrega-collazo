@@ -1,0 +1,37 @@
+
+  .header-container {
+    display: grid;
+    align-items: center;
+
+    
+  }
+.brand-container {
+    text-align: left;
+    display: inline-flex;
+}  
+
+  nav {
+    display: flex;
+  }
+  
+  .nav-container {
+    display: flex;
+  }
+  
+  .nav-container li {
+    margin: 0 10px;
+    list-style: none;
+  }
+  
+  .nav-container li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+    font-size: 1rem;
+  }
+  
+
+  
+
+
+

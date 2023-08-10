@@ -1,0 +1,14 @@
+
+  
+  .cant-glob {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    background-color: rgb(202, 45, 45);
+    border-radius: 50%;
+    font-size: 12px;
+    position: absolute;
+    text-align: center;
+    line-height: 17px;
+  }
+  
