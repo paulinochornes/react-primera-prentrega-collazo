@@ -15,16 +15,16 @@ const NavBar = () => {
         <nav>
           <ul className="nav-container">
             <li>
-              <a href="/">Inicio</a>
+              <a href="/">Sensores</a>
             </li>
             <li>
-              <a href="/">Productos</a>
+              <a href="/">Actuadores</a>
             </li>
             <li>
-              <a href="/">Nosotros</a>
+              <a href="/">Sistemas</a>
             </li>
             <li>
-              <a href="/">Contacto</a>
+              <a href="/">Soporte Técnico</a>
             </li>
           </ul>
           <CartWidget />
